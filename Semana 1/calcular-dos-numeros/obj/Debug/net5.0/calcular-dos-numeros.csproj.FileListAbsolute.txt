@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\bin\Debug\net5.0\calcular-dos-numeros.exe
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\bin\Debug\net5.0\calcular-dos-numeros.deps.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\bin\Debug\net5.0\calcular-dos-numeros.runtimeconfig.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\bin\Debug\net5.0\calcular-dos-numeros.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\bin\Debug\net5.0\calcular-dos-numeros.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\bin\Debug\net5.0\calcular-dos-numeros.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\refint\calcular-dos-numeros.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\calcular-dos-numeros.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\calcular-dos-numeros\obj\Debug\net5.0\ref\calcular-dos-numeros.dll
