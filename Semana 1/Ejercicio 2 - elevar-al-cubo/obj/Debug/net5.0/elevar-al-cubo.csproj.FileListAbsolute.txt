@@ -1,16 +1,32 @@
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.csproj.AssemblyReference.cache
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.AssemblyInfoInputs.cache
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.AssemblyInfo.cs
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\bin\Debug\net5.0\elevar-al-cubo.exe
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\bin\Debug\net5.0\elevar-al-cubo.deps.json
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\bin\Debug\net5.0\elevar-al-cubo.runtimeconfig.json
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\bin\Debug\net5.0\elevar-al-cubo.runtimeconfig.dev.json
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\bin\Debug\net5.0\elevar-al-cubo.dll
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\bin\Debug\net5.0\elevar-al-cubo.pdb
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.dll
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\refint\elevar-al-cubo.dll
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.pdb
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\elevar-al-cubo.genruntimeconfig.cache
-C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\elevar-al-cubo\obj\Debug\net5.0\ref\elevar-al-cubo.dll
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.csproj.AssemblyReference.cache
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.AssemblyInfoInputs.cache
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.AssemblyInfo.cs
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.csproj.CoreCompileInputs.cache
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.exe
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.deps.json
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.runtimeconfig.json
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.runtimeconfig.dev.json
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.dll
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.pdb
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.dll
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/refint/elevar-al-cubo.dll
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.pdb
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.genruntimeconfig.cache
+C:/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/elevar-al-cubo/obj/Debug/net5.0/ref/elevar-al-cubo.dll
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.deps.json
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.runtimeconfig.json
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.runtimeconfig.dev.json
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.dll
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/ref/elevar-al-cubo.dll
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/bin/Debug/net5.0/elevar-al-cubo.pdb
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.csproj.AssemblyReference.cache
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.AssemblyInfoInputs.cache
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.AssemblyInfo.cs
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.dll
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/ref/elevar-al-cubo.dll
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.pdb
+/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/obj/Debug/net5.0/elevar-al-cubo.genruntimeconfig.cache

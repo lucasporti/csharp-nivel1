@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8gNnjoyfRx4DFrByr1RO01bx3/jMjFlb6vu9/C/QAOpIHNDdKuq+YV4oR0MeVMNXLWKTlbKaPuP4+i7zqHCCyQ==",
+  "dgSpecHash": "4gWx9U6BnfuYMC/DSH+xsasdv2EAoiVikHaynTIecfcwReKk3r0sN5onl34g20aaBElA8yOgWYcz4OgCTI++7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\Curso C# Nivel 1\\Semana 1\\elevar-al-cubo\\elevar-al-cubo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/mnt/c/Users/Lucas/Desktop/Curso C# Nivel 1/Semana 1/Ejercicio 2 - elevar-al-cubo/elevar-al-cubo.csproj",
+  "expectedPackageFiles": [
+    "/home/lupor/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/lupor/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/lupor/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
