@@ -14,3 +14,19 @@ C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\promedio-alumnos\obj\Debug\net5
 C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.pdb
 C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.genruntimeconfig.cache
 C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\promedio-alumnos\obj\Debug\net5.0\ref\promedio-alumnos.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\promedio-alumnos.exe
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\promedio-alumnos.deps.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\promedio-alumnos.runtimeconfig.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\promedio-alumnos.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\promedio-alumnos.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\ref\promedio-alumnos.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\bin\Debug\net5.0\promedio-alumnos.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\ref\promedio-alumnos.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 5 - promedio-alumnos\obj\Debug\net5.0\promedio-alumnos.genruntimeconfig.cache

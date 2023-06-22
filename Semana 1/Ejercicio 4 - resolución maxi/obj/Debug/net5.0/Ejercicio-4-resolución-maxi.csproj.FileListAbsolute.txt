@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\Ejercicio-4-resolución-maxi.exe
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\Ejercicio-4-resolución-maxi.deps.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\Ejercicio-4-resolución-maxi.runtimeconfig.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\Ejercicio-4-resolución-maxi.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\Ejercicio-4-resolución-maxi.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\ref\Ejercicio-4-resolución-maxi.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\bin\Debug\net5.0\Ejercicio-4-resolución-maxi.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\ref\Ejercicio-4-resolución-maxi.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 1\Ejercicio 4 - resolución maxi\obj\Debug\net5.0\Ejercicio-4-resolución-maxi.genruntimeconfig.cache

@@ -6,8 +6,7 @@ namespace promedio_alumnos
     {
         static void Main(string[] args)
         {
-            int n1,n2,n3;
-            float promedio;
+            int n1,n2,n3,promedio;
             Console.WriteLine("A continuación ingresá la 1er nota");
             n1 = int.Parse(Console.ReadLine());
             Console.WriteLine("A continuación ingresá la 2da nota");
