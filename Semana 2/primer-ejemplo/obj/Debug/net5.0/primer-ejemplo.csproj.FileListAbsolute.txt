@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\primer-ejemplo.exe
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\primer-ejemplo.deps.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\primer-ejemplo.runtimeconfig.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\primer-ejemplo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\primer-ejemplo.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\ref\primer-ejemplo.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\bin\Debug\net5.0\primer-ejemplo.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\ref\primer-ejemplo.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\primer-ejemplo\obj\Debug\net5.0\primer-ejemplo.genruntimeconfig.cache
