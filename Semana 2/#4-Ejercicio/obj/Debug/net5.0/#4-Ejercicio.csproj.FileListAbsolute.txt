@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\#4-Ejercicio.exe
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\#4-Ejercicio.deps.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\#4-Ejercicio.runtimeconfig.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\#4-Ejercicio.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\#4-Ejercicio.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\ref\#4-Ejercicio.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\bin\Debug\net5.0\#4-Ejercicio.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\ref\#4-Ejercicio.dll
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.pdb
+C:\Users\Lucas\Desktop\Curso C# Nivel 1\Semana 2\#4-Ejercicio\obj\Debug\net5.0\#4-Ejercicio.genruntimeconfig.cache
