@@ -24,13 +24,13 @@ namespace _2_Ejercicio
             Console.WriteLine("Ingresá la cantidad total de litros vendidos");
             cantidadLitros = float.Parse(Console.ReadLine());
 
-            if(cantidadLitros < 100)
+            if(cantidadLitros <= 100)
                 importeFinal = importeTotal;
 
-            if(cantidadLitros > 100 && cantidadLitros < 300)
+            if(cantidadLitros > 100 && cantidadLitros <= 300)
                 importeFinal = (importeTotal * 0.90F);
 
-            if(cantidadLitros > 300 && cantidadLitros < 500)
+            if(cantidadLitros > 300 && cantidadLitros <= 500)
                 importeFinal = importeTotal * 0.85F;
 
             if(cantidadLitros > 500)
